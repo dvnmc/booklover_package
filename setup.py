@@ -8,5 +8,5 @@ setup(
     author_email='djm6cz@virginia.edu',
     description='Package containing files used in M09 HW',
     packages=find_packages(),    
-    install_requires=['numpy', 'pandas', 'unittest'],
+    install_requires=['numpy', 'pandas'],
 )
